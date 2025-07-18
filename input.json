@@ -1,0 +1,11 @@
+{
+ "dictionary": [
+ {"word": "project", "frequency": 200},
+ {"word": "prompt", "frequency": 150},
+ {"word": "product", "frequency": 180},
+ {"word": "program", "frequency": 170}
+ ],
+ "autocomplete_prefix": "pro",
+ "misspelled_word": "producct",
+ "top_k": 3
+}
